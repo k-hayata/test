@@ -2,5 +2,10 @@ test00
 test01
 test02
 test03
+<<<<<<< .mine
 test04
 test05
+=======
+test04
+test06
+>>>>>>> .theirs
